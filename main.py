@@ -43,5 +43,6 @@ try:
 except Exception as e:
     print("An error occurred:", e)
 #saurabh
+    print("send to github")
 # Close the browser after scraping
 driver.quit()
